@@ -1,3 +1,5 @@
 theme: jekyll-theme-tactile
 title: Glagol DSL
 description: No boilerplate. Just business
+github:
+  repository_url: https://github.com/bulgariaphp/glagol-dsl
