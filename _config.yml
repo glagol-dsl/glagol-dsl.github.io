@@ -1,5 +1,3 @@
 theme: jekyll-theme-tactile
-webrick:
-  headers:
-    My-Header: Glagol DSL
-    My-Other-Header: No boilerplate. Just business
+title: Glagol DSL
+description: No boilerplate. Just business
