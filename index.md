@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Glagol DSL homepage
 
-You can use the [editor on GitHub](https://github.com/glagol-dsl/glagol-dsl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the homepage for the Glagol DSL project - development of microservices with ease. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Glagol DSL?
+Glagol DSL is a domain specific language which focuses the development on the most important aspect - the domain implementation. Having an easy syntax with borrowed vocabulary from the Domain-Driven Design concepts and typical Framework patterns, Glagol establishes a headstart for every developer. Simply put, developers start business logic directly, without carrying too much for the surrounding _boilerplate_ code.  
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/glagol-dsl/glagol-dsl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### How it works?
+Glagol DSL relies on transpiling (language-to-language compiling) and the output compiled sources are PHP sources with full framework configured environments. 
